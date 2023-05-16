@@ -22,7 +22,7 @@ This repository contains code and files for gene expression analysis, including 
 - **1_DESingle_DEGs**: Folder containing results of the Desingle analysis.
 
 ### Differential Gene Expression Analysis (Section 2)
-- - **21_dim_reduction_dyeing.ipynb**: Code for dimensionality reduction of the gene expression data and dyeing the cells by their expression levels of certain genes.
+- **21_dim_reduction_dyeing.ipynb**: Code for dimensionality reduction of the gene expression data and dyeing the cells by their expression levels of certain genes.
 - **22_expression_barplots.ipynb**: Code for visualizing Log 2 Fold Changes of top genes identified by each method.
 
 - **23_interscection_of_genes_by_two_methods.ipynb**: Code for identifying the intersection of differentially expressed genes obtained from pseudobulk and Desingle analysis.
